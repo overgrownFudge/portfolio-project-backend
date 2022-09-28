@@ -1,7 +1,7 @@
 package com.portfolioproject.backend.skill;
 
 public class Skill {
-    private Long id;
+    private Integer id;
     private String name;
     private String bgColor;
     private String icon;
@@ -9,24 +9,18 @@ public class Skill {
     public Skill() {
     }
 
-    public Skill(Long id, String name, String bgColor, String icon) {
+    public Skill(Integer id, String name, String bgColor, String icon) {
         this.id = id;
         this.name = name;
         this.bgColor = bgColor;
         this.icon = icon;
     }
 
-    public Skill(String name, String bgColor, String icon) {
-        this.name = name;
-        this.bgColor = bgColor;
-        this.icon = icon;
-    }
-
-    public Long getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
