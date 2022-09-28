@@ -12,8 +12,7 @@ public class SkillService {
                         1,
                         "Spring Boot",
                         "#edf2f8",
-                        "https://github.com/overgrownFudge/portfolio-project/blob/main/frontend_react/src/assets/springboot.png"
-                ),
+                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/springboot.png"                ),
                 new Skill(
                         2,
                         "ReactJS",
