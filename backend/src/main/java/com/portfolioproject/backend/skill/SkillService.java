@@ -24,7 +24,7 @@ public class SkillService {
                         "JavaScript",
                         "#edf2f8",
                         "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/javascript.png"
-        )
+                )
         );
     }
 }
