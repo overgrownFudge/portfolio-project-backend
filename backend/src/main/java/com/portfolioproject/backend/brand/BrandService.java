@@ -10,8 +10,8 @@ public class BrandService {
         return List.of(
                 new Brand(
                         1,
-                        "Amazon",
-                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/figma.png"
+                        "Amazon Web Services",
+                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/aws.png"
                 ),
                 new Brand(
                         2,
