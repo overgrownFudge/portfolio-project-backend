@@ -10,10 +10,10 @@ public class TestimonialService {
         return List.of(
                 new Testimonial(
                             2,
-                            "Sarah",
-                            "Facebook",
-                            "Infinix Inbook X1 Ci3 10th 8GB...",
-                            "https://dummyjson.com/image/i/products/9/thumbnail.jpg"
+                            "Hasan",
+                            "Malik Law Offices",
+                            "Style and speed. Stand out on ...",
+                            "https://i.pinimg.com/474x/52/53/dd/5253dd4c75b8791c1f5e1a7e1bbd5285.jpg"
                 ),
                 new Testimonial(
                             1,

@@ -5,34 +5,19 @@ public class Work {
     private String title;
     private String description;
     private String project_link;
+    private String github_link;
     private String tag;
     private String image;
 
     public Work() {
     }
 
-    public Work(Integer id,
-                String title,
-                String description,
-                String project_link,
-                String tag,
-                String image) {
+    public Work(Integer id, String title, String description, String project_link, String github_link, String tag, String image) {
         this.id = id;
         this.title = title;
         this.description = description;
         this.project_link = project_link;
-        this.tag = tag;
-        this.image = image;
-    }
-
-    public Work(String title,
-                String description,
-                String project_link,
-                String tag,
-                String image) {
-        this.title = title;
-        this.description = description;
-        this.project_link = project_link;
+        this.github_link = github_link;
         this.tag = tag;
         this.image = image;
     }
@@ -69,6 +54,14 @@ public class Work {
         this.project_link = project_link;
     }
 
+    public String getGithub_link() {
+        return github_link;
+    }
+
+    public void setGithub_link(String github_link) {
+        this.github_link = github_link;
+    }
+
     public String getTag() {
         return tag;
     }
@@ -92,6 +85,7 @@ public class Work {
                 ", title='" + title + '\'' +
                 ", description='" + description + '\'' +
                 ", project_link='" + project_link + '\'' +
+                ", github_link='" + github_link + '\'' +
                 ", tag='" + tag + '\'' +
                 ", image='" + image + '\'' +
                 '}';
