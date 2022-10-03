@@ -15,8 +15,8 @@ public class BrandService {
                 ),
                 new Brand(
                         2,
-                        "Youtube",
-                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/figma.png"
+                        "compTIA",
+                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/comptia.png"
                 )
         );
     }
