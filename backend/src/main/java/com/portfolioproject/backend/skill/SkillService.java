@@ -12,48 +12,49 @@ public class SkillService {
                         1,
                         "Spring Boot",
                         "#edf2f8",
-                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/springboot.png"                ),
+                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/springboot.png"
+                ),
                 new Skill(
                         2,
-                        "ReactJS",
+                        "NodeJS",
                         "#edf2f8",
-                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/react.png"
+                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/node.png"
                 ),
                 new Skill(
                         3,
-                        "JavaScript",
+                        "TypeScript",
                         "#edf2f8",
-                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/javascript.png"
+                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/typescript.png"
                 ),
                 new Skill(
                         4,
-                        "CSS",
+                        "SASS",
                         "#edf2f8",
-                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/css.png"
+                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/sass.png"
                 ),
                 new Skill(
                         5,
-                        "figma",
+                        "Figma",
                         "#edf2f8",
                         "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/figma.png"
                 ),
                 new Skill(
                         6,
-                        "heroku",
+                        "Heroku",
                         "#edf2f8",
                         "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/heroku.png"
                 ),
                 new Skill(
                         7,
-                        "HTML",
+                        "Railway",
                         "#edf2f8",
-                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/html.png"
+                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/railwayapp.png"
                 ),
                 new Skill(
                         8,
-                        "NodeJS",
+                        "Render",
                         "#edf2f8",
-                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/node.png"
+                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/render.png"
                 ),
                 new Skill(
                         9,
@@ -63,27 +64,15 @@ public class SkillService {
                 ),
                 new Skill(
                         10,
-                        "SASS",
+                        "REST API",
                         "#edf2f8",
-                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/sass.png"
+                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/api.png"
                 ),
                 new Skill(
                         11,
-                        "typeScript",
+                        "npm",
                         "#edf2f8",
-                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/typescript.png"
-                ),
-                new Skill(
-                        12,
-                        "Flutter",
-                        "#edf2f8",
-                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/flutter.png"
-                ),
-                new Skill(
-                        13,
-                        "api",
-                        "#edf2f8",
-                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/api.png"
+                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/npm.png"
                 )
                 );
     }
