@@ -73,6 +73,12 @@ public class SkillService {
                         "npm",
                         "#edf2f8",
                         "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/npm.png"
+                ),
+                new Skill(
+                        12,
+                        "React Icons",
+                        "#edf2f8",
+                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/bc740f5ce1c7494760fdb43498dbc028c749f05d/frontend_react/src/assets/react-icons.svg"
                 )
                 );
     }
