@@ -34,6 +34,15 @@ public class WorkService {
                         "https://github.com/overgrownFudge/tenzies-game-react",
                         "React JS",
                         "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/tenzies-game.png"
+                ),
+                new Work(
+                        4,
+                        "Movie Watchlist",
+                        "Add movies and shows to a personalized watchlist!",
+                        "https://overgrownfudge.github.io/movie-watchlist/",
+                        "https://github.com/overgrownFudge/movie-watchlist",
+                        "React JS",
+                        "https://raw.githubusercontent.com/overgrownFudge/portfolio-project/main/frontend_react/src/assets/movie-watchlist.png"
                 )
         );
     }
